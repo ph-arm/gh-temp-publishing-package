@@ -1,3 +1,4 @@
 {
-  "your": "json config here"
+  "name": "gh-temp-test",
+  "version": "1.0.0"
 }
