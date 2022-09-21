@@ -1,7 +1,19 @@
 {
-  "name": "gh-temp-publishing-package",
+  "name": "@ph-arm/gh-temp-publishing-package",
   "version": "1.0.0",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph-arm/gh-temp-publishing-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph-arm/gh-temp-publishing-package/issues"
+  },
+  "homepage": "https://github.com/ph-arm/gh-temp-publishing-package#readme"
 }
